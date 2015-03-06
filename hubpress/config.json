@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "thedevbakery",
-    "repositoryName": "Website",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"thedevbakery","repositoryName":"Website","branch":"gh-pages","cname":"thedevbakery.co.uk"},"site":{"title":"The Dev Bakery","description":"Primarily .Net focused development user group in the centre of Altrincham - previously DareDevs & NxtGenUG Manchester","url":"http://thedevbakery.co.uk"},"socialnetwork":{"twitter":"http://www.twitter.com/TheDevBakery"},"theme":{"name":"ichi","url":"https://thedevbakery.github.io/Website/themes/ichi"}}
