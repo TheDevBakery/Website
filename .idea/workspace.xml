@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdbfe78d-ea20-4f27-8a73-5bb27657f083" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\.last-sha" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\.nojekyll" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\README-ja.adoc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\README.adoc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\config.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\scripts\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\scripts\app.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\scripts\helpers\tpl\nav.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\scripts\helpers\tpl\pagination.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\scripts\vendor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\scripts\vendor\modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\styles\animations.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\styles\asciidoctor.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\styles\blog.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\styles\codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\styles\foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\styles\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\hubpress\styles\main.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\images\Dev-Bakery-100px.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\images\Dev-Bakery.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\images\OfficeAlley.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\images\OfficeGate.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\images\OfficeKeypad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\images\README.adoc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\assets\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\assets\fonts\casper-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\assets\fonts\casper-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\assets\fonts\casper-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\assets\fonts\casper-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\assets\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\assets\js\jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\author.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\default.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\page.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\partials\loop.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\post.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\tag.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Casper\theme.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\assets\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\assets\fonts\pictos_custom.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\assets\fonts\pictos_custom.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\assets\fonts\pictos_custom.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\author.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\default.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\page.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\partials\footer.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\partials\loop.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\partials\pagination.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\post.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\tag.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Roon\theme.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\css\animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\collageplus.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\gallery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\highlight.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\imagesloaded.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\jquery.collagePlus.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\jquery.fluidbox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\jquery.removeWhitespace.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\helper\masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\assets\js\scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\author.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\default.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\page.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\partials\footer.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\partials\links.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\partials\loop.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\post.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\tag.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\Saga\theme.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\config.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\css\foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\css\normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\css\outdatedBrowser.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\css\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\foundation-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\foundation-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\foundation-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\foundation-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\foundation-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-address-book.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-alert.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-align-center.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-align-justify.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-align-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-align-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-anchor.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-annotate.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-archive.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-arrow-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-arrow-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-arrow-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-arrow-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-arrows-compress.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-arrows-expand.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-arrows-in.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-arrows-out.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-asl.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-asterisk.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-at-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-background-color.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-battery-empty.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-battery-full.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-battery-half.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-bitcoin-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-bitcoin.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-blind.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-bluetooth.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-bold.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-book-bookmark.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-book.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-bookmark.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-braille.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-burst-new.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-burst-sale.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-burst.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-camera.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-check.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-checkbox.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-clipboard-notes.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-clipboard-pencil.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-clipboard.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-clock.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-closed-caption.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-cloud.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-comment-minus.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-comment-quotes.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-comment-video.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-comment.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-comments.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-compass.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-contrast.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-credit-card.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-crop.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-crown.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-css3.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-database.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-die-five.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-die-four.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-die-one.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-die-six.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-die-three.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-die-two.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-dislike.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-dollar-bill.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-dollar.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-download.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-eject.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-elevator.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-euro.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-eye.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-fast-forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-female-symbol.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-female.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-filter.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-first-aid.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-flag.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-folder-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-folder-lock.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-folder.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-foot.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-foundation.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-graph-bar.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-graph-horizontal.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-graph-pie.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-graph-trend.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-guide-dog.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-hearing-aid.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-heart.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-home.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-html5.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-indent-less.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-indent-more.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-info.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-key.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-laptop.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-layout.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-lightbulb.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-like.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-link.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-list-bullet.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-list-number.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-list-thumbnails.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-list.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-lock.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-loop.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-magnifying-glass.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-mail.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-male-female.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-male-symbol.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-male.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-map.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-marker.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-megaphone.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-microphone.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-minus-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-minus.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-mobile-signal.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-mobile.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-monitor.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-mountains.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-music.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-next.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-no-dogs.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-no-smoking.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-copy.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-csv.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-delete.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-doc.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-edit.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-export-csv.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-export-doc.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-export-pdf.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-export.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-filled.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-multiple.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-pdf.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-remove.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page-search.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-page.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-paint-bucket.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-paperclip.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-pause.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-paw.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-paypal.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-pencil.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-photo.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-play-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-play-video.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-play.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-pound.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-power.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-previous.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-price-tag.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-pricetag-multiple.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-print.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-prohibited.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-projection-screen.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-puzzle.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-quote.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-record.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-refresh.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-results-demographics.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-results.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-rewind-ten.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-rewind.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-rss.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-safety-cone.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-save.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-share.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-sheriff-badge.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-shield.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-shopping-bag.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-shopping-cart.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-shuffle.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-skull.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-500px.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-adobe.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-amazon.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-android.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-apple.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-behance.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-bing.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-blogger.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-delicious.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-designer-news.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-deviant-art.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-digg.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-dribbble.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-drive.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-dropbox.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-evernote.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-facebook.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-flickr.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-forrst.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-foursquare.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-game-center.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-github.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-google-plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-hacker-news.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-hi5.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-instagram.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-joomla.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-lastfm.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-linkedin.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-medium.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-myspace.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-orkut.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-path.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-picasa.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-pinterest.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-rdio.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-reddit.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-skillshare.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-skype.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-smashing-mag.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-snapchat.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-spotify.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-squidoo.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-stack-overflow.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-steam.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-stumbleupon.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-treehouse.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-tumblr.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-vimeo.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-windows.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-xbox.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-yahoo.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-yelp.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-youtube.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-zerply.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-social-zurb.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-sound.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-star.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-stop.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-strikethrough.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-subscript.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-superscript.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-tablet-landscape.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-tablet-portrait.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-target-two.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-target.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-telephone-accessible.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-telephone.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-text-color.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-thumbnails.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-ticket.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-torso-business.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-torso-female.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-torso.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-torsos-all-female.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-torsos-all.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-torsos-female-male.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-torsos-male-female.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-torsos.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-trash.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-trees.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-trophy.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-underline.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-universal-access.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-unlink.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-unlock.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-upload-cloud.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-upload.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-usb.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-video.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-volume-none.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-volume-strike.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-volume.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-web.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-wheelchair.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-widget.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-wrench.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-x-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-x.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-yen.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-zoom-in.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\foundation-icons\svgs\fi-zoom-out.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\fonts\icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\images\cross.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\images\main-background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\built.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.abide.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.alert.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.clearing.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.equalizer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.interchange.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.joyride.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.magellan.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.offcanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.orbit.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.reveal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\foundation.tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\foundation\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\min\built.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\outdatedBrowser.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\overlay\classie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\overlay\demo1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\overlay\snap.svg-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\vendor\fastclick.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\vendor\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\vendor\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\vendor\modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\vendor\placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\js\vendor\smoothscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\scss\screen.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\assets\scss\styles.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\default.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\page.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\partials\pagination.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\post.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\tag.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\ichi\theme.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\css\animate.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\css\fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\css\global.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\css\grid.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\css\media-queries.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\css\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\css\uno.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\css\variables.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\fonts\foundation-icons\foundation-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\fonts\foundation-icons\foundation-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\fonts\foundation-icons\foundation-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\fonts\foundation-icons\foundation-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\fonts\foundation-icons\foundation-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\images\background-cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\components\_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\components\_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\components\_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\components\_navigation.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\components\_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\components\_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\components\_post-list.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\css\global.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\global.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\media-queries.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\sections\_post.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\uno.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\assets\scss\variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\default.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\error.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\page.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\partials\comments.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\partials\footer.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\partials\list-posts.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\partials\pagination.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\partials\side-panel.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\partials\social.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\post.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\tag.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projects\DevBakeryWebsite\themes\uno\theme.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="DevBakeryWebsite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="DevBakeryWebsite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7111651" vertical-offset="1998" max-vertical-offset="3944">
+              <caret line="152" column="85" selection-start-line="152" selection-start-column="85" selection-end-line="152" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="319" />
+    <option name="y" value="34" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevBakeryWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevBakeryWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevBakeryWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdbfe78d-ea20-4f27-8a73-5bb27657f083" name="Default" comment="" />
+      <created>1427121089170</created>
+      <option name="number" value="Default" />
+      <updated>1427121089170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="319" y="34" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7111651" vertical-offset="1998" max-vertical-offset="3944">
+          <caret line="152" column="85" selection-start-line="152" selection-start-column="85" selection-end-line="152" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
